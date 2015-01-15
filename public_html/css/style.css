@@ -1,0 +1,163 @@
+
+body{
+    padding: 0; margin: 0; font-family: Arial, Verdana; background-color: #fff;
+}
+
+
+.wrapper
+{
+    position: relative; width: 100%;  overflow: hidden;
+}
+.subwrapper
+{
+    position: relative; left: 50%; 
+    width: 5000px; text-align: center; 
+    margin-left: -2500px;
+}
+.slidecontainer
+{
+    position: relative; margin: 0 auto;
+    top: 0px; left: 0px; width: 980px; height: 400px;
+
+}
+
+.slides
+{
+    cursor: move; 
+    position: absolute; 
+    left: 208px; top: 0px; 
+    width: 496px;
+    height: 400px; 
+    overflow: hidden;
+}
+.subslide
+{
+    position: absolute; 
+    width: 5480px; 
+    height: 335px; 
+    top: 10px; 
+    left: 0px;
+    /* text-align: left; */ 
+    /* line-height: 1.8em; */ 
+    /* font-size: 12px; */
+}
+.arrowleft
+{
+    opacity: 0.2;
+    width: 50px; height: 50px; top: 123px;
+                    left: 8px;
+                    position: absolute;
+                        cursor: pointer;
+                        display: block;
+                        background: url(../image/a07.png) no-repeat;
+                        overflow: hidden;
+                        
+                        background-position: -5px -35px;
+                        
+}
+.arrowleft:hover
+{
+    
+     background-position: -125px -35px;
+}
+.arrowright
+{
+    width: 50px; height: 50px; 
+    top: 123px;
+                    right: 8px;
+                    
+    
+                      position: absolute;
+                        cursor: pointer;
+                        display: block;
+                        background: url(../image/a07.png) no-repeat;
+                        overflow: hidden;
+                        
+                        background-position: -65px -35px;
+}
+.arrowright:hover
+{
+      background-position: -185px -35px; 
+}
+.sld
+{
+    float: left;
+    position: relative;
+    width: 496px;
+    height: 326px;
+}
+
+.thumbnavigator
+{
+    position: absolute;
+width: 5480px;
+height: 70px;
+background-color: black;
+
+    left: 0px;
+}
+
+.thumb
+{
+float: left;
+position: relative;
+ 
+width: 96px;
+    height: 60px;
+    
+/* padding: 4px; */
+left: 0;
+top: 4px;
+margin-left: 5px;
+}
+.thumbslide
+{
+
+position: absolute;
+right: 273px;
+bottom: 0;
+width: 501px;
+height: 68px;
+overflow: hidden;
+
+
+/* border: #0099FF 1px solid; */
+}
+
+
+
+/* netFixAndoraidissue*/
+
+.ui-body-a, .ui-bar-a, .ui-btn-up-a,.ui-btn-hover-a,.ui-btn-down-a,
+
+.ui-body-b,.ui-bar-b,.ui-btn-up-b,.ui-btn-hover-b,.ui-btn-down-b,
+
+.ui-body-c,.ui-bar-c,.ui-btn-up-c,.ui-btn-hover-c,.ui-btn-down-c,
+
+.ui-body-d,.ui-bar-d,.ui-btn-up-d,.ui-btn-hover-d,.ui-btn-down-d,
+
+.ui-body-e,.ui-bar-e,.ui-btn-up-e,.ui-btn-hover-e,.ui-btn-down-e,
+
+.ui-shadow-inset,
+
+.ui-icon-shadow,
+
+.ui-focus,
+
+.ui-overlay-shadow,
+
+.ui-shadow,
+
+.ui-btn-active{
+
+    text-shadow: none !important;
+
+    box-shadow: none !important;
+
+    -moz-box-shadow: none !important;
+
+    -webkit-box-shadow: none !important;
+
+    -webkit-transform: translateZ(0);
+
+}

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+
+    <option>
+        <mainimage>
+            <![CDATA[<img class="sld" src="image/image02.jpg"/>]]>
+        </mainimage>
+        <thumbimage>
+             <![CDATA[<img  class="thumb" src="image/image02.jpg"/>]]>
+        </thumbimage>
+    </option>
+    <option>
+        <mainimage>
+            <![CDATA[<img  class="sld" src="image/image06.jpg"/>]]>
+        </mainimage>
+        <thumbimage>
+         <![CDATA[<img  class="thumb" src="image/image06.jpg"/>]]>
+        </thumbimage>
+    </option>
+    <option>
+        <mainimage>
+            <![CDATA[<img class="sld" src="image/image03.jpg"/>]]>
+        </mainimage>
+        <thumbimage>
+           <![CDATA[<img  class="thumb" src="image/image03.jpg"/>]]>
+        </thumbimage>
+    </option>
+    <option>
+        <mainimage>
+            <![CDATA[<img  class="sld" src="image/image04.jpg"/>]]>
+        </mainimage>
+        <thumbimage>
+           <![CDATA[<img  class="thumb" src="image/image04.jpg"/>]]>
+        </thumbimage>
+    </option>
+    <option>
+        <mainimage>
+            <![CDATA[<img   class="sld" src="image/image06.jpg"/>]]>
+        </mainimage>
+        <thumbimage>
+         <![CDATA[<img   class="thumb" src="image/image06.jpg"/>]]>
+        </thumbimage>
+    </option>
+    <option>
+        <mainimage>
+            <![CDATA[<img  class="sld" src="image/image02.jpg"/>]]>
+        </mainimage>
+        <thumbimage>
+             <![CDATA[<img class="thumb" src="image/image02.jpg"/>]]>
+        </thumbimage>
+    </option>
+    <option>
+        <mainimage>
+            <![CDATA[<img  class="sld" src="image/image05.jpg"/>]]>
+        </mainimage>
+        <thumbimage>
+            <![CDATA[<img class="thumb" src="image/image05.jpg"/>]]>
+        </thumbimage>
+    </option>
+     <option>
+        <mainimage>
+            <![CDATA[<img  class="sld" src="image/image06.jpg"/>]]>
+        </mainimage>
+        <thumbimage>
+         <![CDATA[<img class="thumb" src="image/image06.jpg"/>]]>
+        </thumbimage>
+    </option>
+    <option>
+        <mainimage>
+            <![CDATA[<img class="sld" src="image/image02.jpg"/>]]>
+        </mainimage>
+        <thumbimage>
+             <![CDATA[<img class="thumb" src="image/image02.jpg"/>]]>
+        </thumbimage>
+    </option>
+
+</root>
